@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/herpiko/NetBeansProjects/SMSC/src/smsc/Group.java</file>
+            <file>file:/home/herpiko/NetBeansProjects/SMSC/src/Model/GroupDAO.java</file>
+            <file>file:/home/herpiko/NetBeansProjects/SMSC/src/smsc/Sent.java</file>
+            <file>file:/home/herpiko/NetBeansProjects/SMSC/src/Model/InboxDAO.java</file>
+            <file>file:/home/herpiko/NetBeansProjects/SMSC/src/Model/GroupModel.java</file>
+            <file>file:/home/herpiko/NetBeansProjects/SMSC/src/smsc/MDI.java</file>
+            <file>file:/home/herpiko/NetBeansProjects/SMSC/src/Model/OutboxModel.java</file>
+            <file>file:/home/herpiko/NetBeansProjects/SMSC/src/smsc/Outbox.java</file>
+            <file>file:/home/herpiko/NetBeansProjects/SMSC/src/smsc/Contact.java</file>
+            <file>file:/home/herpiko/NetBeansProjects/SMSC/src/Model/OutboxDAO.java</file>
+            <file>file:/home/herpiko/NetBeansProjects/SMSC/src/Model/InboxModel.java</file>
+            <file>file:/home/herpiko/NetBeansProjects/SMSC/src/Model/ContactDAO.java</file>
+            <file>file:/home/herpiko/NetBeansProjects/SMSC/src/Model/SentModel.java</file>
+            <file>file:/home/herpiko/NetBeansProjects/SMSC/src/Model/ContactModel.java</file>
+            <file>file:/home/herpiko/NetBeansProjects/SMSC/src/smsc/Inbox.java</file>
+            <file>file:/home/herpiko/NetBeansProjects/SMSC/src/Model/SentDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
